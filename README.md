@@ -45,11 +45,11 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 ## Connect
-Contact and social links will appear here.
+Website: ojamal.tech · LinkedIn: in/ojamal-710-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=0xakhii&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=0xakhii&theme=neon" alt="0xakhii social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=0xakhii&theme=neon&website=ojamal.tech&linkedin=in%2Fojamal-710-&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=0xakhii&theme=neon&website=ojamal.tech&linkedin=in%2Fojamal-710-" alt="0xakhii social section" />
   </picture>
 </p>
 
