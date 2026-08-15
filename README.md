@@ -1,39 +1,166 @@
-Contribution Space Shooter
-<p align="center"> <img src="https://raw.githubusercontent.com/0xakhii/0xakhii/output/space-shooter.gif" alt="0xakhii's contribution Space Shooter" /> </p> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+omar%20jamal;Welcome+to+my+profile!" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://avatars.githubusercontent.com/u/91758150?u=9b1dd2708f146ac59b634403a55141a350edac07&v=4" width="150" style="border-radius: 50%;" alt="omar jamal" /> </p>
-👨‍💻 About Me
-currently student at 1337 (42 network)
+<div align="center">
 
-📍 Based in Ben Guerir
-🏢 Working at @1337School
-🌐 Check out my website
-👥 45 followers · 27 following
-🛠️ Languages & Tools
-JavaScriptPHPCCSSC++
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:05070d,60:0b1220,100:05070d&height=260&section=header&text=OMAR%20JAMAL&fontColor=56D4DD&fontSize=62&fontAlignY=36&fontAlign=50&desc=SYSTEMS%20ENGINEER%20-%2042%20NETWORK%20-%201337%20STUDENT&descSize=15&descAlignY=56&descAlign=50&animation=twinkling&stroke=56D4DD&strokeWidth=1" width="100%" alt="Omar Jamal"/>
 
-📊 GitHub Stats
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=0xakhii&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=0xakhii&theme=github-dark&style=terminal" alt="GitHub Stats" /></picture> </p>
-🚀 Featured Projects
-42-cursus C
-1337 bg ⭐ 6 | 🍴 0
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=56D4DD&center=true&vCenter=true&width=680&height=35&lines=full-stack+%2B+systems+engineer;42+Network+%2F+1337+student;building+things+that+survive+contact+with+prod." alt="tagline"/>
 
-Inception SCSS
-one container is not enough , we need to go deeper ⭐ 2 | 🍴 0
+<br>
 
-ft_irc C++
-This project is about creating your own IRC server. You will use an actual IRC client to connect to your server and test it. Internet is ruled by solid standards protocols that allow connected computers to interact with each other. ⭐ 1 | 🍴 0
+<a href="https://github.com/0xakhii"><img src="https://img.shields.io/badge/GITHUB-0xakhii-05070d?style=flat-square&logo=github&logoColor=56D4DD"/></a>&nbsp;
+<a href="https://ojamal.me"><img src="https://img.shields.io/badge/WEBSITE-ojamal.me-05070d?style=flat-square&logo=googlechrome&logoColor=56D4DD"/></a>&nbsp;
+<a href="https://x.com/0xakhiii"><img src="https://img.shields.io/badge/X-0xakhiii-05070d?style=flat-square&logo=x&logoColor=56D4DD"/></a>
 
-webserv C++
-No description provided ⭐ 1 | 🍴 0
+<br><br>
 
-minishell C
-This project is about creating a simple shell. Yes, your own little bash. ⭐ 5 | 🍴 1
+<img src="https://komarev.com/ghpvc/?username=0xakhii&style=flat-square&color=56D4DD&label=PROFILE+VIEWS"/>
 
-ft_services Shell
-This project consist to clusturing an docker-compose application and deploy it with Kubernetes. ⭐ 0 | 🍴 0
+</div>
 
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=0xakhii&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=0xakhii&theme=github-dark&style=terminal" alt="0xakhii contribution activity" /></picture> </p>
-🤝 Connect With Me
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=0xakhii&theme=github-dark&website=ojamal.me&x=0xakhiii&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=0xakhii&theme=github-dark&website=ojamal.me&x=0xakhiii&style=terminal" alt="0xakhii social links" /></picture> </p>
-GitHubTwitterWebsite
+<br>
 
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+## `~/identity`
+
+```text
+┌──(omar㉿mission-control)-[~]
+└─$ ./init --profile
+
+  callsign      : omar jamal
+  station       : ben guerir, morocco — 1337 / 42 network
+  daily driver  : arch linux (btw)
+  class         : full-stack + systems engineering
+  objective     : ship code that survives contact with prod
+```
+
+<br>
+
+## `~/loadout`
+
+<div align="center">
+
+**CORE**
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,html,css,sass&theme=dark&perline=6"/>
+
+**INFRA**
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,vim,vscode&theme=dark&perline=7"/>
+
+**PLATFORM**
+<img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,cmake&theme=dark&perline=6"/>
+
+</div>
+
+<br>
+
+## `~/mission-log`
+
+<table>
+<tr>
+<td width="50%">
+
+### ft_irc
+**C++ · Networking · Sockets**
+
+An IRC server built from scratch — TCP networking, protocol handling, and client management.
+
+<a href="https://github.com/0xakhii/ft_irc"><img src="https://img.shields.io/badge/VIEW_PROJECT-56D4DD?style=flat-square&logo=github&logoColor=05070d"/></a>
+
+</td>
+<td width="50%">
+
+### minishell
+**C · Unix · Shell**
+
+A Bash-like shell built from scratch — processes, pipes, redirections, signals, environment variables.
+
+<a href="https://github.com/0xakhii/minishell"><img src="https://img.shields.io/badge/VIEW_PROJECT-56D4DD?style=flat-square&logo=github&logoColor=05070d"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Inception
+**Docker · Infrastructure**
+
+Containerized infrastructure end to end.
+
+> One container is not enough. We need to go deeper.
+
+<a href="https://github.com/0xakhii/Inception"><img src="https://img.shields.io/badge/VIEW_PROJECT-56D4DD?style=flat-square&logo=github&logoColor=05070d"/></a>
+
+</td>
+<td width="50%">
+
+### ft_services
+**Docker · Kubernetes**
+
+A containerized application deployed and orchestrated on Kubernetes.
+
+<a href="https://github.com/0xakhii/ft_services"><img src="https://img.shields.io/badge/VIEW_PROJECT-56D4DD?style=flat-square&logo=github&logoColor=05070d"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### webserv
+**C++ · HTTP**
+
+An HTTP server implementation — server architecture and protocol fundamentals from the socket up.
+
+<a href="https://github.com/simoo10/webserv"><img src="https://img.shields.io/badge/VIEW_PROJECT-56D4DD?style=flat-square&logo=github&logoColor=05070d"/></a>
+
+</td>
+<td width="50%">
+
+### 42-cursus
+**C · C++ · Unix**
+
+The full 1337 / 42 curriculum — every project along the way.
+
+<a href="https://github.com/0xakhii/42-cursus"><img src="https://img.shields.io/badge/VIEW_PROJECT-56D4DD?style=flat-square&logo=github&logoColor=05070d"/></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `~/telemetry`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=0xakhii&show_icons=true&hide_border=true&bg_color=0d1117&title_color=56D4DD&icon_color=56D4DD&text_color=c9d1d9&ring_color=56D4DD&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xakhii&layout=compact&hide_border=true&bg_color=0d1117&title_color=56D4DD&text_color=c9d1d9&langs_count=8" height="175"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xakhii&theme=dark&hide_border=true&background=0D1117&ring=56D4DD&fire=FFB454&currStreakLabel=56D4DD" width="68%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xakhii&bg_color=0d1117&color=56D4DD&line=FFB454&point=ffffff&area=true&hide_border=true" width="94%"/>
+
+</div>
+
+<br>
+
+## `~/status`
+
+```text
+  [ loading ]   c++ · networking · docker / kubernetes · linux internals
+  [ in orbit ]  systems & infra projects · 1337 / 42 cursus
+```
+
+<br>
+
+## `~/transmit`
+
+<div align="center">
+
+**`$ echo "transmission received — thanks for stopping by"`**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:05070d,60:0b1220,100:05070d&height=110&section=footer&stroke=56D4DD&strokeWidth=1" width="100%"/>
+
+</div>
