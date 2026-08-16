@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://github.com/0xakhii"><img src="https://img.shields.io/badge/GITHUB-0xakhii-05070d?style=flat-square&logo=github&logoColor=56D4DD"/></a>&nbsp;
-<a href="https://ojamal.me"><img src="https://img.shields.io/badge/WEBSITE-ojamal.me-05070d?style=flat-square&logo=googlechrome&logoColor=56D4DD"/></a>&nbsp;
+<a href="https://ojamal.tech"><img src="https://img.shields.io/badge/WEBSITE-ojamal.tech-05070d?style=flat-square&logo=googlechrome&logoColor=56D4DD"/></a>&nbsp;
 <a href="https://x.com/0xakhiii"><img src="https://img.shields.io/badge/X-0xakhiii-05070d?style=flat-square&logo=x&logoColor=56D4DD"/></a>
 
 <br><br>
@@ -38,13 +38,13 @@
 <div align="center">
 
 **CORE**
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,html,css,sass&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,html,css,sass&theme=dark&perline=6"/>
 
 **INFRA**
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,vim,vscode&theme=dark&perline=7"/>
 
 **PLATFORM**
-<img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,cmake&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,macos,windows,cmake&theme=dark&perline=6"/>
 
 </div>
 
