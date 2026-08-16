@@ -38,13 +38,13 @@
 <div align="center">
 
 **CORE**
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,html,css,sass&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,html,css,sass&theme=dark&perline=7"/>
 
 **INFRA**
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,vim,vscode&theme=dark&perline=7"/>
 
 **PLATFORM**
-<img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,macos,windows,cmake&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,windows,cmake&theme=dark&perline=6"/>
 
 </div>
 
